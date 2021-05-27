@@ -1,4 +1,4 @@
-# Clone Disney Plus
+# Projeto Slide
 ![](https://github.com/iorgama/origamid_javascript_es6/blob/main/img/projeto_slide.png)
 ## Descrição do Projeto:
 
